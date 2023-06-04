@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">APLIKASI ALUMNI</string>
+    <string-array name="daftar_fakulitas">
+        <item>Pilih Fakulitas</item>
+        <item>Fakulitas Ilmu Eksakta</item>
+        <item>Fakulitas Agama Islam</item>
+        <item>Fakultas Ilmu Sosial dan Pendidikan</item>
+    </string-array>
+
+    <string name="laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+</resources>
