@@ -1,4 +1,3 @@
-#SC
 ![Screenshot_2023-06-05-08-32-45-240_com example aplikasialumni 1](https://github.com/Iskhand/APK_Alumni/assets/98943582/2e447265-402a-43ad-bd7d-5e2ee8b2fe95)
 
 ![Screenshot_2023-06-05-08-32-48-198_com example aplikasialumni 1](https://github.com/Iskhand/APK_Alumni/assets/98943582/a2d85008-92a6-4e4c-b712-ad81b3ac1b4c)
